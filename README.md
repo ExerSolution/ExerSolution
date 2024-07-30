@@ -9,7 +9,7 @@ Interests
 💞️ I’m looking to collaborate on creating these projects.
 
 Contact Me
-📫 Reach me on Facebook: facebook.com/gramers2](https://www.facebook.com/ExerSolution/
+📫 Reach me on Facebook: https://www.facebook.com/ExerSolution/
 
 <!---
 ExerSolution/ExerSolution is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
