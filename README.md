@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @ExerSolution
-- 👀 I’m interested in creating programming project and documentation ...
-- 🌱 I’m currently learning C# and java language...
-- 💞️ I’m looking to collaborate on creating those project...
-- 📫 How to reach me on Facebook: https://www.facebook.com/gramers2...
--     Also see my youtube channel: https://www.youtube.com/channel/UC91TfN15prwaeCRikKTd21w...
+Hi there, I'm @ExerSolution 👋
+
+About Me
+I'm a professional web developer with five years of experience in database administration and website design. I have strong creative and analytical skills, and I'm a team player with a keen eye for detail.
+
+Interests
+👀 I’m interested in creating programming projects and documentation.
+🌱 I’m currently learning NextJS.
+💞️ I’m looking to collaborate on creating these projects.
+
+Contact Me
+📫 Reach me on Facebook: facebook.com/gramers2
+
 <!---
 ExerSolution/ExerSolution is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
